@@ -1,0 +1,6 @@
+framework module MyLayout {
+  umbrella header "MyLayout.h"
+
+  export *
+  module * { export * }
+}
